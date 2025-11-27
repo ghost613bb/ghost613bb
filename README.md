@@ -1,3 +1,5 @@
+**👋 Hi, there:ghost613bb**
+
 <div style="display: flex; justify-content: center;">
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
@@ -14,7 +16,6 @@
    	</a>
 </p> -->
 
-
 <p align="center">
 		    <picture>
 		    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake-dark.svg" width="1000" />
@@ -22,7 +23,6 @@
 		    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
 		    </picture>
 </p>
-
 
 <p align="center">
 	<table>
@@ -38,16 +38,10 @@
 	</table>
 </p>
 
-
-
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
-
-
-
-
 
 <!--
 <div style="display: flex; justify-content: center;">
@@ -57,10 +51,9 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="10%" />
-</p>	
+</p>
 </div>
 -->
-
 
 <!--
 <p align="center">
@@ -77,7 +70,6 @@
 	</table>
 </p>
 -->
-
 
 <!--
 <p align="center">
@@ -96,7 +88,6 @@
 </details>
 -->
 
-
 <!--
 <p align="center">
 <table>
@@ -108,7 +99,6 @@
 </table>
 </p>
 -->
-
 
 <!--
 <p align="center">
@@ -150,7 +140,6 @@
 	<br>
 -->
 
-
 <!--
 <div align=center>
   <a href="https://github-profile-summary-cards.vercel.app/demo" >
@@ -158,7 +147,6 @@
     </a>
 </div>
 -->
-
 
 <!--
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jiale+Wang.;+Welcome+to+My+Profile!;Always+learning+new+things.+;)](https://git.io/typing-svg)
