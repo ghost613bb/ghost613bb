@@ -68,9 +68,9 @@
 		<tr>
 			<td align="center">
 				<picture>
-				<source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-night-rainbow.svg?clear=1" />
-				<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-season-animate.svg?clear=1" />
-				<img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-night-rainbow.svg?clear=1" />
+					<source media="(prefers-color-scheme: dark)"  srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+					<source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+					<img alt="github profile contributions chart" src="./profile-3d-contrib/profile-night-rainbow.svg" />
 				</picture>
 			</td>
 		</tr>
