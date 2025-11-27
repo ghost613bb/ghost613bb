@@ -1,197 +1,87 @@
-**👋 Hi, there:ghost613bb**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=28&desc=I%20am%ghost%F0%9F%98%81&descAlign=50&descSize=30&descAlignY=56&animation=twinkling" />
+
+👨‍💻 **前端开发** | JavaScript Enthusiast | INFJ
+
+---
+
+- 💡 热爱前端开发，专注于 JavaScript 及相关技术栈
+- 🛠️ 技能专长：JavaScript、前端工程化
+- 🌱 立志深耕前端领域，持续学习 ing
+- 🌎 腾讯犀牛鸟-cherrymarkdown 贡献者、腾讯大前端菁英班成员
+- ☁️ 喜欢听歌、画画、冥想、清晨和夜晚
+
+---
+
+### 最喜欢的一句话：
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=航行一旦启程，唯一的方向就是前行。)
+
+- 🚀 I use daily:
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square)
+![PNPM Badge](https://img.shields.io/badge/PNPM-F69220?logo=pnpm&logoColor=fff&style=flat-square)
+![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat-square)
+![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat-square)
+![Sass Badge](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff&style=flat-square)
+![Axios Badge](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat-square)
+![Pinia Badge](https://img.shields.io/badge/Pinia-FFD343?logo=pinia&logoColor=000&style=flat-square)
+
+- 💻 I work using:
+
+### 💻 开发环境
+
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat-square)
+![Chrome DevTools Badge](https://img.shields.io/badge/Chrome%20DevTools-4285F4?logo=googlechrome&logoColor=fff&style=flat-square)
+
+- ⚙️ I also use and work:
+
+### ⚙️ 也在使用
+
+![Nuxt.js Badge](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=fff&style=flat-square)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=flat-square)
+![TailwindCSS Badge](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 
 <div style="display: flex; justify-content: center;">
 	<p align="center">
-	<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
-	<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
-	<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
-	<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Astonished%20Face.png" width="10%" />
-	<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="10%" />
-	</p>	
+		<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
+		<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
+		<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
+		<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Astonished%20Face.png" width="10%" />
+		<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="10%" />
+	</p>
 </div>
 
-<!-- <p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      	<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
-   	</a>
-</p> -->
-
 <p align="center">
-		    <picture>
-            <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ghost613bb/ghost613bb/output/github-contribution-grid-snake-dark.svg" width="1000" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghost613bb/ghost613bb/output/github-contribution-grid-snake.svg" width="1000" />
-            <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/ghost613bb/ghost613bb/output/github-contribution-grid-snake.svg" width="1000" />
-		    </picture>
+	<picture>
+		<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ghost613bb/ghost613bb/output/github-contribution-grid-snake-dark.svg" width="1000" />
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghost613bb/ghost613bb/output/github-contribution-grid-snake.svg" width="1000" />
+		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/ghost613bb/ghost613bb/output/github-contribution-grid-snake.svg" width="1000" />
+	</picture>
 </p>
 
 <p align="center">
 	<table>
 		<tr>
-		<td align="center">
-		    <picture>
-            <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-night-rainbow.svg?clear=1" />
-            <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-season-animate.svg?clear=1" />
-            <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-night-rainbow.svg?clear=1" />
-		    </picture>
-		</td>
+			<td align="center">
+				<picture>
+				<source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-night-rainbow.svg?clear=1" />
+				<source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-season-animate.svg?clear=1" />
+				<img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-night-rainbow.svg?clear=1" />
+				</picture>
+			</td>
 		</tr>
 	</table>
 </p>
 
-<div align="center">
-  <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=ghost613bb&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-</div>
-
-<!--
-<div style="display: flex; justify-content: center;">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="10%" />
+    <img src="./profile-summary-card-output/omni/0-profile-details.svg" width="1000" />
 </p>
-</div>
--->
-
-<!--
-<p align="center">
-	<table>
-		<tr>
-		<td align="center">
-			<picture>
-			<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-night-green.svg" />
-			<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" />
-			<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output-3d-contrib/profile-south-season-animate.svg" width="80%" />
-			</picture>
-		</td>
-		</tr>
-	</table>
-</p>
--->
-
-<!--
-<p align="center">
-<img src="https://github.com/Nuyoahwjl/Nuyoahwjl/blob/528a4720c8f9ae8a024f9648f46c2225cbddc3bb/header_.png" width="8500" />
-</p>
--->
-
-<!--
-<details>
-<summary><b>Trophy</b></summary>
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      	<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=nuyoahwjl&theme=merko&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="1000" alt="TROPHY" />
-   	</a>
-</p>
-</details>
--->
-
-<!--
-<p align="center">
-<table>
-	<tr>
-	<td align="center">
-		<img src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
-	</td>
-	</tr>
-</table>
-</p>
--->
-
-<!--
-<p align="center">
-	<table>
-	<tr>
-		<td align="left">
-		<a href="https://myoctocat.com">
-			<img src="./cat.png" alt="Octocat" width="400" />
-		</a>
-		</td>
-		<td align="right">
-		<a href="https://streak-stats.demolab.com">
-			<img src="https://streak-stats.demolab.com?user=nuyoahwjl&theme=shadow-blue&hide_border=true&no_bg=true" alt="GitHub Streak" width="600" />
-		</a>
-		<br>
-		<a href="https://dday-widget.minung.dev">
-    			<img src="https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2025-01-01&startDate=2024-01-01&theme=theme2" alt="dday-widget.svg" width="600" />
-  		</a>
-		</td>
-		</tr>
-	</table>
-</p>
--->
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-			<img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&hide=issues,contribs&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" width="600" />
-</a>
--->
-
-<!--
-[![Nuyoahwjl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuyoahwjl&days=20&hide_title=true&area=true&hide_border=true&theme=github-compact&bg_color=#00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-
-<!--
- <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=false&layout=compact&hide_title=true&langs_count=8" alt="Top Languages" width="700"/>
-</a>
-	<br>
--->
-
-<!--
-<div align=center>
-  <a href="https://github-profile-summary-cards.vercel.app/demo" >
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nuyoahwjl&theme=github"  />
-    </a>
-</div>
--->
-
-<!--
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jiale+Wang.;+Welcome+to+My+Profile!;Always+learning+new+things.+;)](https://git.io/typing-svg)
--->
-
-<!--
- <div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
--->
-
-<!--
-## **👋 Hi, there:**
-- [x] **🌱 I’m currently studying CS at HUST.**
-- [x] **😆 Record the learning process of a novice from zero to one.**
-- [x] **💥 I look forward to getting acquainted with more people.**
-- [x] **📌 Wechat: ww000000001_**
-## **😍 Top languages:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuyoahwjl&theme=github-compact&hide_progress=true&langs_count=6&hide=TeX)
-## **💻 I'm using:**
-[![I mostly use](https://skillicons.dev/icons?i=c,cpp,java,py,md,html,vscode,pycharm,clion,androidstudio,github,stackoverflow,instagram,twitter,)](https://skillicons.dev)
--->
-
-<!--
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nuyoahwjl&show_icons=true&locale=en" alt="nuyoahwjl" /></p>
--->
-
-<!--
-<p align-"center">
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=nuyoahwjl">
-<img src="https://stats.quira.sh/nuyoahwjl/languages-over-time?theme=dark" alt="nuyoahwjl's GitHub | Languages Over Time" />
-</a>
-</p>
--->
-
-<!--
-[![Nuyoahwjl's GitHub | Languages](https://stats.quira.sh/Nuyoahwjl/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Nuyoahwjl)
--->
-
-<!--
-<p align="center">
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=142413924" target="_blank">
-  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=142413924&image_size=auto&color_scheme=light" width="770" height="auto" alt="Dashboard stats of @Nuyoahwjl">
-</a>
-</p>
->>>>>>> 4cdb19399d0e554274dab7bbfde45b712d260834
--->
