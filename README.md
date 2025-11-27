@@ -1,14 +1,13 @@
-<<<<<<< HEAD
 **👋 Hi, there:ghost613bb**
 
 <div style="display: flex; justify-content: center;">
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
-  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
-  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
-  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Astonished%20Face.png" width="10%" />
-  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="10%" />
-</p>	
+	<p align="center">
+	<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="10%" />
+	<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" />
+	<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Relieved%20Face.png" width="10%" />
+	<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Astonished%20Face.png" width="10%" />
+	<img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="10%" />
+	</p>	
 </div>
 
 <!-- <p align="center">
@@ -19,9 +18,9 @@
 
 <p align="center">
 		    <picture>
-		    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake-dark.svg" width="1000" />
-		    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
-		    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Nuyoahwjl/Nuyoahwjl/output/github-contribution-grid-snake.svg" width="1000" />
+            <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ghost613bb/ghost613bb/output/github-contribution-grid-snake-dark.svg" width="1000" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghost613bb/ghost613bb/output/github-contribution-grid-snake.svg" width="1000" />
+            <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/ghost613bb/ghost613bb/output/github-contribution-grid-snake.svg" width="1000" />
 		    </picture>
 </p>
 
@@ -30,9 +29,9 @@
 		<tr>
 		<td align="center">
 		    <picture>
-		    <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-night-green.svg?clear=1" />
-		    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-season-animate.svg?clear=1" />
-		    <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/Nuyoahwjl/Nuyoahwjl/profile-3d-contrib/profile-season-animate.svg?clear=1" />
+            <source media="(prefers-color-scheme: dark)"  srcset="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-night-rainbow.svg?clear=1" />
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-season-animate.svg?clear=1" />
+            <img alt="github profile contributions chart" src="https://cdn.jsdelivr.net/gh/ghost613bb/ghost613bb/profile-3d-contrib/profile-night-rainbow.svg?clear=1" />
 		    </picture>
 		</td>
 		</tr>
@@ -41,7 +40,7 @@
 
 <div align="center">
   <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://komarev.com/ghpvc/?username=nuyoahwjl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=ghost613bb&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
 <!--
