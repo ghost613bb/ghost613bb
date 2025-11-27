@@ -1,4 +1,4 @@
-# Dear developers，Hi there 👋 welcome to ghost's profile
+## Dear developers，Hi there 👋 welcome to ghost's profile
 
 <div style="display: flex; justify-content: center;">
 	<p align="center">
@@ -11,8 +11,6 @@
 </div>
 
 ## 👨‍💻 **前端开发** | JavaScript Enthusiast | INFJ
-
----
 
 <p align="center">
 	<picture>
@@ -30,7 +28,7 @@
 
 ---
 
-### 最喜欢的一句话：
+### My favorite quote
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=航行一旦启程，唯一的方向就是前行。)
 
